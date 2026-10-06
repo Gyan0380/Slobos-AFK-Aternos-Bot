@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ThePlayers441.aternos.me",
-    "port": 61437,
+    "ip": "theplayer.joinmc.world",
+    "port": 48707,
     "version": "1.21.1",
     "try-creative": false
   },
