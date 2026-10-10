@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "AFK",
+    "username": "AFK BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "theplayer.joinmc.world",
-    "port": 48707,
+    "ip": "lol104.play.hosting",
+    "port": 25971,
     "version": "1.21.1",
     "try-creative": false
   },
