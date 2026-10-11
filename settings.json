@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "THE HOSTING",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "aarvix.play.hosting",
+    "ip": "lol104.play.hosting",
     "version": "1.20.1",
     "try-creative": false
   },
