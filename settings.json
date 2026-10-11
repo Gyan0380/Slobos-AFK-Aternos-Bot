@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lol104.play.hosting",
+    "ip": "lol104.play.hosting:25780",
     "version": "1.20.1",
     "try-creative": false
   },
